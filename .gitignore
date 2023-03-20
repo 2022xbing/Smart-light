@@ -5,7 +5,6 @@ target/
 !**/src/test/**/target/
 srp.log/
 app.pid
-src/main/resources/application.yml
 *.yml
 
 ### STS ###
